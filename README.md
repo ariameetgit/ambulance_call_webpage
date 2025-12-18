@@ -1,14 +1,5 @@
 
-
----
-permalink: /
-title: "Saving Lives with Sound"
-excerpt: "How AI helps ambulances arrive faster."
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Saving Lives with Sound
 
 ## 🚑 When Every Second Counts
 
