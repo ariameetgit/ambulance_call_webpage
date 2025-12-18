@@ -44,7 +44,7 @@ If the AI thinks the patient is in critical danger, it flashes a **Red Light** o
 
 ### ❓ Why Do We Need This?
 
-* **Humans get tired:** Operators work long shifts and can get stressed. AI never gets tired.
 * **Speed matters:** In a cardiac arrest, every minute without help reduces survival chances by 10%. Our AI tries to save those precious minutes.
-
+* **Overwhelming Demand:** Every second counts, but there are simply too many calls coming in at the same time. AI acts as a "super-filter" to ensure that life-threatening cases don't get stuck in the queue.
+ 
 > **Important Note:** The AI does NOT replace humans. It is just a helpful tool—like a co-pilot—to make sure no emergency is missed.
